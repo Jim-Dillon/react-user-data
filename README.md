@@ -1,7 +1,5 @@
 # React User Data Log
 
-A React app to combine and display user data as list items
-
 This app is a user data log. The purpose of this app is to combine two types of entered user data and display them in a single list item
 
 ## App Features
